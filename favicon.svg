@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <text x="6" y="22" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#c1121f">T</text>
-  <text x="14" y="22" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e3a5f">H</text>
+  <image
+    href="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=64,h=64,fit=crop,q=95/dWxy62QE9rC6oLgR/toyota-las-heras---logos-01-mePvWE2go2IOxPlp.png"
+    x="0"
+    y="0"
+    width="32"
+    height="32"
+    preserveAspectRatio="xMidYMid slice"
+  />
 </svg>
