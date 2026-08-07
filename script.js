@@ -53,7 +53,7 @@ function initContactForm() {
       `Teléfono: ${telefono}\n\n` +
       `Mensaje:\n${mensaje}`
     );
-    window.open(`https://wa.me/5493512550070?text=${texto}`, '_blank');
+    window.open(`https://wa.me/5493512766000?text=${texto}`, '_blank');
   });
 }
 
